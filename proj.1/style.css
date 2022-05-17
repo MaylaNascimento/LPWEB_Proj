@@ -1,0 +1,63 @@
+body {
+
+  max-width: 900px;
+  margin: auto;
+  background: #ccc;
+}
+
+.menu ul {
+    display: flex;
+    color:  green;
+
+}
+
+.menu ul li {
+    list-style-type: none;
+    padding-right: 14px;
+    
+}
+
+
+.lista1 {
+    
+    background: #ccc;
+    border-radius: 5px solid;
+    box-shadow: 2px 2px 2px 2px;
+    max-width: 900px;
+    margin: auto;
+    max-width: 900px;
+  }
+
+  .lista1 ul h3 {
+
+    background-color:yellow;
+    padding: 10px;
+    border: 10px ;
+    margin-top: 10px;
+    margin-right: 400px;
+    
+
+
+}
+
+
+
+  .lista2 {
+    background: #ccc;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px;
+    box-shadow: 2px 2px 2px 2px;
+   
+  }
+
+  .lista2 ul h3 {
+
+    background-color:orange;
+    padding: 10px;
+    border: 1px ;
+    margin-top: 10px;
+    margin-right: 400px;
+     
+
+
+}
