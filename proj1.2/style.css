@@ -1,7 +1,13 @@
 
+.center{
+    margin: auto;
+    width: 50vw;
+}
+
 .photo{
-border:  1px solid #505050;
- border-radius: 50%;   
+    border:  1px solid #505050;
+    border-radius: 50%; 
+     
 }
 
 body {
